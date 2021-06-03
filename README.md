@@ -1,1 +1,2 @@
-# Clear-The-Trash-Out-Version-2.2
+# p5.play-boilerplate
+Boiler plate for p5.play
